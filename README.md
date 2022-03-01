@@ -1,0 +1,1 @@
+# fish-ecs-cli-completions
